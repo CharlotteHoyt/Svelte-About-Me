@@ -3,32 +3,32 @@
 
   let cardData = [
     {
-      image: "src/assets/twin.png",
+      image: "../src/assets/twin.png",
       title: "Twin",
       description: "My twin sister is my best friend! An amusing fact is that my dad's side of the family has three sets of identical girl twins.",
     },
     {
-      image: "src/assets/robotics.png",
+      image: "../src/assets/robotics.png",
       title: "99621A Lemon Pi",
       description: "During high school I competed in the VEX Robotics Competion on an award-winning all girls team of five!",
     },
     {
-      image: "src/assets/rover.png",
+      image: "../src/assets/rover.png",
       title: "TrickFire Robotics",
       description: "I am now on a team that competes in the University Rover Challenge, an international competition that challenges students to design and build rovers relevant to future Mars exploration!",
     },
     {
-      image: "src/assets/hackathon.png",
+      image: "../src/assets/hackathon.png",
       title: "Coding",
       description: "I love to code and am always seeking opportunities to develop new skills and collaborate with others!",
     },
     {
-      image: "src/assets/confetti.png",
+      image: "../src/assets/confetti.png",
       title: "Color Lover",
       description: "I enjoy all things colorful and believe color has an extraordinary place in ordinary life!",
     },
     {
-      image: "src/assets/iceCream.png",
+      image: "../src/assets/iceCream.png",
       title: "Washington",
       description: "I live just north of Seattle in Washington state! I love the evergreen trees and even the rain. Molly Moon's has the best ice cream in the Seattle area!",
     },
@@ -107,7 +107,7 @@
 </style>
 
 <div class="container">
-  <img class="roundedImage" src="src/assets/charlotte.jpeg" draggable="false" alt="A headshot of a girl in a yellow sweater, blue top, and necklace in front of a blue wall.">
+  <img class="roundedImage" src="../src/assets/charlotte.jpeg" draggable="false" alt="A headshot of a girl in a yellow sweater, blue top, and necklace in front of a blue wall.">
   <br>
   <h1>Hello, World! 🪩</h1>
   <p>My name is {name}! I am a student at the University of Washington Bothell.</p>

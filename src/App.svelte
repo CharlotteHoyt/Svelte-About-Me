@@ -107,7 +107,7 @@
 </style>
 
 <div class="container">
-  <img class="roundedImage" src="assets/charlotte.jpeg" draggable="false" alt="A headshot of a girl in a yellow sweater, blue top, and necklace in front of a blue wall.">
+  <img class="roundedImage" src="/Users/charlottehoyt/KWK-BWDC-About-Me/KWK-Svelte-About-Me/src/assets/charlotte.jpeg" draggable="false" alt="A headshot of a girl in a yellow sweater, blue top, and necklace in front of a blue wall.">
   <br>
   <h1>Hello, World! 🪩</h1>
   <p>My name is {name}! I am a student at the University of Washington Bothell.</p>

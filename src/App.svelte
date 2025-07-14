@@ -35,7 +35,7 @@
   ];
 
   let name = "Charlotte";
-  let bio = "I love coding, robotics, playing the violin, baking, and spending time with my people (and animals)! I'm a loyal light mode user, sprinkle collector, lover of color, identical twin, and total Hufflepuff."
+  let bio = "I love coding, robotics, playing the violin, baking, and spending time with my favorite people (and animals)! I'm a loyal light mode user, sprinkle collector, lover of color, identical twin, and total Hufflepuff."
   let favorites = ["Strawberry Ice Cream 🍦", "Giraffes 🦒", "Fall 🍂", "Yellow 💛", "Coding 👩‍💻", "Robotics 🤖", "Violin 🎻", "Baking 🧁", "My Two Silly Cats 🐱"];
 
   let funFacts = ["I have sectoral heterochromia!", "I rode a horse that was in a Disney movie!", "I got second place in a spelling bee in fourth grade!", "I'm scared of hiccups!"];

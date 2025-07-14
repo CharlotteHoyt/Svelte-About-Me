@@ -3,32 +3,32 @@
 
   let cardData = [
     {
-      image: "src/assets/twin.png",
+      image: "https://raw.githubusercontent.com/CharlotteHoyt/Svelte-About-Me/refs/heads/main/src/assets/twin.png",
       title: "Twin",
       description: "My twin sister is my best friend! An amusing fact is that my dad's side of the family has three sets of identical girl twins.",
     },
     {
-      image: "src/assets/robotics.png",
+      image: "https://raw.githubusercontent.com/CharlotteHoyt/Svelte-About-Me/refs/heads/main/src/assets/robotics.png",
       title: "99621A Lemon Pi",
       description: "During high school I competed in the VEX Robotics Competion on an award-winning all girls team of five!",
     },
     {
-      image: "src/assets/rover.png",
+      image: "https://raw.githubusercontent.com/CharlotteHoyt/Svelte-About-Me/refs/heads/main/src/assets/rover.png",
       title: "TrickFire Robotics",
       description: "I am now on a team that competes in the University Rover Challenge, an international competition that challenges students to design and build rovers relevant to future Mars exploration!",
     },
     {
-      image: "src/assets/hackathon.png",
+      image: "https://raw.githubusercontent.com/CharlotteHoyt/Svelte-About-Me/refs/heads/main/src/assets/hackathon.png",
       title: "Coding",
       description: "I love to code and am always seeking opportunities to develop new skills and collaborate with others!",
     },
     {
-      image: "src/assets/confetti.png",
+      image: "https://raw.githubusercontent.com/CharlotteHoyt/Svelte-About-Me/refs/heads/main/src/assets/confetti.png",
       title: "Color Lover",
       description: "I enjoy all things colorful and believe color has an extraordinary place in ordinary life!",
     },
     {
-      image: "src/assets/iceCream.png",
+      image: "https://raw.githubusercontent.com/CharlotteHoyt/Svelte-About-Me/refs/heads/main/src/assets/iceCream.png",
       title: "Washington",
       description: "I live just north of Seattle in Washington state! I love the evergreen trees and even the rain. Molly Moon's has the best ice cream in the Seattle area!",
     },
